@@ -4,19 +4,23 @@
 
 ## Company Overview and Origin:
 
-![FLYWIRE](https://www.flywire.com/media/img/flywire-logo.svg)
+![FLYWIRE](https://www.flywire.com/media/img/flywire-author-fallback.png)
 
 Flywire, founded in 2011, offers a digital payment solution. 
 
 The Boston start-up company formed after the founder, Iker Marcaida when he was as an international student in U.S., was having difficulties of paying his tuition from another country in different currency. To solve this issue, he decided to establish fintech company called Flywire which helps people to pay or receive in foreign currencies by using digital payment system. 
 
 Flywire offer their services in:
+
 - Education,
+
 - Healthcare,
+
 - Travel,
+
 - Other Businesses.
 
-For more information on Flywire company website: [company_website](https://www.flywire.com/)
+For more information: [Flywire Company Website](https://www.flywire.com/)
 
 
 ## Business Activities:
@@ -27,16 +31,22 @@ Flywire not only provides to payments solution related to educational payment bu
 
 When Flywire payment service is compared to the tradition payment services, people, using Flywire, can benefit to have a faster & secure payment, competitive exchange rates, lower fee and fraud prevention.
 
-How to make a payment on Flywire: [Flywire_payment_video](https://vimeo.com/153781014)
+How to make a payment: [Flywire video: How to make a payment](https://vimeo.com/153781014)
 
 The company also provides 24/7 customer experiences service; customers can easily call, chat or email about their questions and requests. 
 
 Since the company is serving globally, they expanded their offices to:
+
 - London
+
 - Chicago
+
 - Valencia
+
 - Singapore
+
 - Manchester
+
 - Japan
 
 
@@ -72,8 +82,11 @@ Flywire is in payment domain of the financial industry.
 Boston-based Fintech Unicorn:
 
 -	reaches more than 200 clients over the world
+
 -	supports 150 currencies
+
 -	offers their services in 240 countries and territories.
+
 
 Flywire competitors are mainly all other payment solution companies like Stripe & Western Union. Unlike their competitors, Flywire prefers to focused on payment solutions in healthcare, education and travel and also decrease fees for both side payer and receiver. 
 
@@ -99,9 +112,15 @@ Flywire will gain more advantage and will be differentiate from their competitor
 ## Appendix
 
 Flywire Company Website. In Flywire. https://www.flywire.com/company/about
+
 Flywire Company Resources &Blogs. In Flywire. https://www.flywire.com/resources
+
 Flywire Company Overview. In Crunchbase. https://www.crunchbase.com/organization/flywireco
+
 Flywire Company Overview. In AngelList. https://angel.co/company/flywire
+
 Burrill, Caleb. Strength in Numbers: Digital Payments are THRIVING in the Covid-19 Era. In Flywire. https://www.flywire.com/resources/strength-in-numbers-digital-payments-are-thriving-in-the-covid-19-era 
+
 Palley, Jack. How to reduce costs when accepting travel payments. In Flywire. https://www.flywire.com/resources/how-to-reduce-costs-when-accepting-travel-payments 
+
 Burroughs, Callum (2020, May 07). Goldman Sachs-backed payments unicorn Flywire is cutting 12% of its workforce amid the coronavirus pandemic. In Business Insider. https://www.businessinsider.com/flywire-goldman-sachs-backed-unicorn-cuts-jobs-amid-coronavirus-2020-5 
