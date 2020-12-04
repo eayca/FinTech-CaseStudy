@@ -1,6 +1,4 @@
-# FinTech-CaseStudy
-
-# FLYWIRE PAYMENTS CORPORATION
+# FinTech-CaseStudy : Flywire Payments Corporation
 
 ## Company Overview and Origin:
 
@@ -100,7 +98,7 @@ Even though in 2020 Flywire has a decrease due to negative effects of COVID-19 p
 
 Digital payment services are blooming especially even during COVID-19 pandemic. The companies like Flywire will gain more successful in the future. With the fund received from Goldman Sachs in February, Flywire reach among other finance unicorns in the same domain.
 
-## Recommendations
+## Recommendations:
 
 Flywire service could expand industries from education, healthcare, travel and business. In last couples of years, a lot of countries effected with wildfires, major earthquake, and other force of natures. Internationally, people and countries tried to help each other by supporting charities and others. Most of the people don’t want to spend on fees when they sending money internationally. Since Flywire offers a lower fee, secure, fast and efficient payment solutions, the company could help them to save from the some of the costs. 
 
@@ -109,7 +107,7 @@ With this new category, people can easily offer their help without worrying abou
 Flywire will gain more advantage and will be differentiate from their competitors. 
 
 
-## Appendix
+## Appendix:
 
 Flywire Company Website. In Flywire. https://www.flywire.com/company/about
 
